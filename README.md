@@ -1,4 +1,4 @@
-# Zach Al
+# Zach Alkharusy
 
 I work where AI has to be useful, measurable, and governable — and I build the thing, not
 just the policy around it.
